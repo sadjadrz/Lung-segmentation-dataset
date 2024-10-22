@@ -4,6 +4,8 @@
 ![image](https://github.com/user-attachments/assets/c1b15a83-6e79-4694-8ce7-fe64a48cccc8)
 
 Automatic lung image segmentation assists doctors in identifying diseases such as lung cancer, COVID-19, and respiratory disorders. However, lung segmentation is challenging due to overlapping features like vascular and bronchial structures, along with pixellevel fusion of brightness, color, and texture.
+we introduce LungSegDB, a comprehensive dataset for lung segmentation. We followed a systematic workflow to prepare the datasets, which included downloading the datasets, creating lung masks using any labeling software, conducting an expert review for accurate validation, and finally evaluating the results of the annotation process.
+
 ![image](https://github.com/user-attachments/assets/4abab8f2-9a0a-4f40-92e8-b3e8c4991bf0)
 
 
