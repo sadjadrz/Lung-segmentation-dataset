@@ -58,8 +58,7 @@ CT Image Segmentation},
 ```
 
 ### Acknowledgements
-A special thanks to [Yasin Rezvani](https://github.com/YasinRezvani) for his invaluable assistance in data collection and labeling. Yasin played a crucial role in gathering data from Google and Instagram and preparing it for deep learning model training.
-
+A special thanks to [Dr. Yeganeh Jalali](https://github.com/Jalali-Yeganeh) for his invaluable assistance in data collection and labeling. 
 ### Changelog 
 * 
 
